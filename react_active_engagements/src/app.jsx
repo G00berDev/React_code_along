@@ -1,5 +1,5 @@
 import React from 'react';
-import TestComponent from './tutorial/01-useState/03-useState-Array'; // Fixed the import statement
+import TestComponent from './tutorial/01-useState/footer'; // Fixed the import statement
 
 const App = () => {
 return (
