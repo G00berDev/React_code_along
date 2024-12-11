@@ -1,6 +1,6 @@
 import React, { useState } from 'react'; // Import useState for state management
 import Gallery from './tutorial/gallery'; // Import the Gallery component
-import TestComponent from './tutorial/03-useEffect/3-useEffect-fetch-data.jsx';
+import TestComponent from './tutorial/04-conditional-rendering/3-show-hide.jsx';
 
 // const images = [
 // {
